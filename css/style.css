@@ -12,6 +12,7 @@ p{
 
 img {
 	display: block;
+	max-width: 100%	
 }
 
 .btn{
@@ -225,7 +226,7 @@ img {
 
 .produtos_icone{
 	background: #000;
-	padding:20px 0px 20px 40px;
+	padding:40px 0px 20px 40px;
 	
 }
 
