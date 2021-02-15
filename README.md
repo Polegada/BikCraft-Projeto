@@ -1,5 +1,6 @@
 # BikCraft
 Projeto desenvolvido durante meu curso na Origamid.
+https://polegada.github.io/BikCraft-Projeto/
 
 <h2>Sobre</h2>
 Site de uma empresa (fictícia) de bicicletas.
